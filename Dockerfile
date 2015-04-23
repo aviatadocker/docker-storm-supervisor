@@ -4,8 +4,8 @@
 # Docker Hub - http://hub.docker.com/u/dalekurt/storm-supervisor
 # Twitter - http://www.twitter.com/dalekurt
 
-FROM dalekurt/storm
-MAINTAINER Dale-Kurt Murray "dalekurt.murray@gmail.com"
+FROM aviata/storm
+MAINTAINER jmarsh.ext@aviatainc.com "jmarsh.ext@aviatainc.com"
 
 EXPOSE 6700
 EXPOSE 6701
